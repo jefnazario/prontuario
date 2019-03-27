@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProntuarioApp.Views.Search">
+    <ContentPage.Content>
+        <StackLayout Padding="10">
+            <Label Text="Informe o paciente"
+                   VerticalOptions="Center" 
+                   HorizontalOptions="Center" />
+            <SearchBar 
+                       CancelButtonColor="IndianRed"
+                       Placeholder="Paciente"
+                       x:Name="Nome"
+                ></SearchBar>
+            <!--<Entry Placeholder="" FontSize="Small"></Entry>-->
+            <Button  BackgroundColor="#60ADDE" FontSize="Small" TextColor="#FFF" Text="Buscar"  Clicked="SearchPatient"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

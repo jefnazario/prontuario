@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:system="clr-namespace:System;assembly=netstandard"
+             xmlns:prontuarioApp="clr-namespace:ProntuarioApp;assembly=ProntuarioApp"
+             x:Class="ProntuarioApp.Views.PatientDetail">
+    <ContentPage.Content>
+        <StackLayout Padding="30" >
+            <Label Text="Dados"></Label>
+                
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

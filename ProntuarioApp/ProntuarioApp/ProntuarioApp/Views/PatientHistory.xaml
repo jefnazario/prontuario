@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProntuarioApp.Views.PatientHistory">
+    <ContentPage.Content>
+        <StackLayout Padding="20">
+            <ListView x:Name="PatientHistorys" HasUnevenRows="True" RowHeight="150"  VerticalOptions="StartAndExpand" SeparatorColor="#000" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                    <RowDefinition Height="Auto"/>
+                                </Grid.RowDefinitions>
+                                <StackLayout Grid.Row="1" VerticalOptions="FillAndExpand">
+                                    <Label Text="{Binding Hospital}" FontSize="10"></Label>
+                                    <Label Text="{Binding Doctor}" FontSize="10"></Label>
+                                    <Label Text="{Binding MedicalComplaint}" FontSize="10"></Label>
+                                    <Label Text="{Binding Level}" FontSize="10"></Label>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

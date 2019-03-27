@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProntuarioApp.Api.Infra", "..\ProntuarioApp.Api.Infra\ProntuarioApp.Api.Infra.csproj", "{2FF8EA46-8491-4185-93F3-3641A1E30E4B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProntuarioApp.Api", "ProntuarioApp.Api.csproj", "{02742E4B-508D-470C-9820-22B9043F3E44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FF8EA46-8491-4185-93F3-3641A1E30E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FF8EA46-8491-4185-93F3-3641A1E30E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FF8EA46-8491-4185-93F3-3641A1E30E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FF8EA46-8491-4185-93F3-3641A1E30E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02742E4B-508D-470C-9820-22B9043F3E44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02742E4B-508D-470C-9820-22B9043F3E44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02742E4B-508D-470C-9820-22B9043F3E44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02742E4B-508D-470C-9820-22B9043F3E44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D026E0E-2647-4A00-B0C2-5ED3350B149E}
+	EndGlobalSection
+EndGlobal

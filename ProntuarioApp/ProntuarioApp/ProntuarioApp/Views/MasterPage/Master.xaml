@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:controls="clr-namespace:Windows.UI.Xaml.Controls;assembly=Windows.Foundation.UniversalApiContract"
+             x:Class="ProntuarioApp.Views.MasterPage.Master"
+             Title="Menu"
+             BackgroundColor="#FFF">
+
+    <StackLayout Padding="10">
+        <Button  x:Name="ButtonHome"  BackgroundColor="#808080" Text="Home" FontSize="20" TextColor="#FFF" />
+        <Button  x:Name="ButtonPatient"  Text="Paciente"  BackgroundColor="#60ADDE" FontSize="20" TextColor="#FFF">
+        </Button>
+        <Button  x:Name="ButtonPerfil"  BackgroundColor="#60ADDE" Text="Perfil" FontSize="20" TextColor="#FFF" />
+        <Button  x:Name="ButtonLogout"  BackgroundColor="#ff9999" Text="Logout" FontSize="20" TextColor="#FFF" />
+    </StackLayout>
+</ContentPage>
+

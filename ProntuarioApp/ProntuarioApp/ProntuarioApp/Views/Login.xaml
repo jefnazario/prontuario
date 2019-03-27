@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ProntuarioApp.Views.Login">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White" Padding="35">
+            <Image Source="prontuario.png" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="220" HeightRequest="220"></Image>
+            <Label Text="Bem-vindo ao Prontuário Online - Grupo Hospitalar!"
+                VerticalOptions="Center" 
+                HorizontalOptions="Center"  />
+            <Entry Placeholder="E-mail" BackgroundColor="#FFF"  VerticalOptions="Center"  FontSize="Small"></Entry>
+            <Entry Placeholder="Senha" BackgroundColor="#FFF" VerticalOptions="Center" FontSize="Small" ></Entry>
+            <Button Text="LOGIN" Clicked="UserLogin" BackgroundColor="#60ADDE" FontSize="Small" TextColor="#FFF" ></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
