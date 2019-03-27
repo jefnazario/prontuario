@@ -15,7 +15,7 @@ namespace ProntuarioApp.Api.Infra.Repositories
         {
         }
 
-        public List<Paciente> Buscar(string nome)
+        public List<Paciente> Buscar()
         {
             var sql = $@"SELECT CD_PACIENTE as ID,
 	                           NM_PACIENTE as Name,
