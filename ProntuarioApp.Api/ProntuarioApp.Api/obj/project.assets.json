@@ -14909,11 +14909,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api\\ProntuarioApp.Api.csproj",
+      "projectUniqueName": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api\\ProntuarioApp.Api.csproj",
       "projectName": "ProntuarioApp.Api",
-      "projectPath": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api\\ProntuarioApp.Api.csproj",
+      "projectPath": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api\\ProntuarioApp.Api.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api\\obj\\",
+      "outputPath": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -14932,8 +14932,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj": {
-              "projectPath": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj"
+            "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj": {
+              "projectPath": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj"
             }
           }
         }

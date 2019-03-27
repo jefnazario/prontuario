@@ -23,8 +23,7 @@ namespace ProntuarioApp.Api.Infra.Repositories
                                DT_NASCIMENTO as DataNascimento,
                                Idade
                                
-                        FROM prontuario_unificado.PACIENTE 
-                        WHERE UPPER(NM_PACIENTE) LIKE UPPER('%{nome}%')";
+                        FROM prontuario_unificado.PACIENTE";
 
             return ExecuteQueryList<Paciente>(sql).ToList();
         }

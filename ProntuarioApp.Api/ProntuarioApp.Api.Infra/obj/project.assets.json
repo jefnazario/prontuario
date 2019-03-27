@@ -6903,11 +6903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj",
+      "projectUniqueName": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj",
       "projectName": "ProntuarioApp.Api.Infra",
-      "projectPath": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj",
+      "projectPath": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\ProntuarioApp.Api.Infra.csproj",
       "packagesPath": "C:\\Users\\rafae\\.nuget\\packages\\",
-      "outputPath": "D:\\projetos\\prontuarioapp\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\obj\\",
+      "outputPath": "D:\\projetos\\prontuarioapp\\prontuario\\ProntuarioApp.Api\\ProntuarioApp.Api.Infra\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
