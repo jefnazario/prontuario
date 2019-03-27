@@ -16,9 +16,9 @@ namespace ProntuarioApp.Api.Services
             this.pacienteRepository = pacienteRepository;
         }
 
-        public List<Paciente> Buscar(string name)
+        public List<Paciente> Buscar()
         {
-            return pacienteRepository.Buscar(name);
+            return pacienteRepository.Buscar();
         }
 
     }

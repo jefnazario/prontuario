@@ -21,10 +21,10 @@ namespace ProntuarioApp.Api.Controllers
             this.pacienteService = pacienteService;
         }
 
-        [HttpPost("api/pacientes/buscar")]
-        public async Task<JsonResult> Buscar(BuscarRequest request)
+        [HttpGet("api/pacientes/buscar")]
+        public async Task<JsonResult> Buscar()
         {
-            var pacientes = pacienteService.Buscar(request.Nome);
+            var pacientes = pacienteService.Buscar();
             return Json(new ObjectReturnSuccess(1, pacientes));
         }
 
