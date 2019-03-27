@@ -14,14 +14,9 @@ D:\projetos\prontuarioapp\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\ne
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.deps.json
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.dll
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.pdb
-D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.dll
-D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.dll
-D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Mvc.Abstractions.xml
-D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\bin\Debug\netcoreapp2.1\Microsoft.AspNetCore.Routing.Abstractions.xml
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.csprojAssemblyReference.cache
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.csproj.CoreCompileInputs.cache
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.AssemblyInfoInputs.cache
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.AssemblyInfo.cs
-D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.csproj.CopyComplete
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.dll
 D:\projetos\prontuarioapp\prontuario\ProntuarioApp.Api\ProntuarioApp.Api.Infra\obj\Debug\netcoreapp2.1\ProntuarioApp.Api.Infra.pdb
