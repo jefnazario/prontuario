@@ -21,7 +21,7 @@
     <PackageReference Include="System.Text.Encoding.CodePages" Version="4.5.1" />
   </ItemGroup>
 
-  <ItemGroup>
+  <!--<ItemGroup>
     <Reference Include="Microsoft.AspNetCore.Http.Features">
     </Reference>
     <Reference Include="Microsoft.AspNetCore.Mvc.Abstractions">
@@ -30,6 +30,6 @@
     <Reference Include="Microsoft.AspNetCore.Routing.Abstractions">
       <HintPath>C:\Users\rafae\.nuget\packages\microsoft.aspnetcore.routing.abstractions\2.0.1\lib\netstandard2.0\Microsoft.AspNetCore.Routing.Abstractions.dll</HintPath>
     </Reference>
-  </ItemGroup>
+  </ItemGroup>-->
 
 </Project>
